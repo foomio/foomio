@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Foomi.
+- 👋 Hi, I’m  Funmi.
 - 👀 I’m interested in cloud technology and game development.
   
-- 📫 How to reach me: Linkedin 
+- 📫 How to reach me: foomi.business@gmail.com 
 
 <!---
 kat3o/kat3o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
