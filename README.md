@@ -1,6 +1,5 @@
 - 👋 Hi, I’m  Foomi.
 - 👀 I’m interested in cloud technology and game development.
-- 🌱 I’m currently learning ^
   
 - 📫 How to reach me: Linkedin 
 
