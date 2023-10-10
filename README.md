@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kate O.
+- 👋 Hi, I’m  Foomi.
 - 👀 I’m interested in cloud technology and game development.
 - 🌱 I’m currently learning ^
   
