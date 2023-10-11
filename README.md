@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technology and game development.
   
 - 📫 How to reach me: foomi.business@gmail.com ☀
-- ❤️ If you like my work and want to support me, my Tip Jar is $sshandhoney on cash app 🍯
+- ❤️ All my work is free and open source but if you would like my work and want to support me, my Tip Jar is $sshandhoney on cash app 🍯
 
 
 <!---
