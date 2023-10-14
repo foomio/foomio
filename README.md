@@ -1,8 +1,12 @@
 - 👋 Hi, I’m  Funmi.
 - 👀 I’m interested in cloud technology and game development.
-  
+- Current Projects I'm working on : "Neon Kawaii To-do List", "KATE3O", "Parkside Pioneers: '50s MMO" (all hosted w/ AWS)
 - 📫 How to reach me: foomi.business@gmail.com ☀
-- ❤️ All my work is free and open source but if you like my work and want to support me, my Tip Jar is $sshandhoney on cash app 🍯
+
+
+
+
+- Note: ❤️ All my work is free and open source but if you like my work and want to support me, my Tip Jar is $sshandhoney on cash app 🍯
 
 
 <!---
