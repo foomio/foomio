@@ -6,7 +6,7 @@
 
 
 
-- Note: ❤️ All my work is free and open source but if you like it and want to support me, my Tip Jar is $sshandhoney on cash app 🍯 I'm also open to collaboration!
+- Note: ❤️ All my work is free and open source ❤️
 
 
 <!---
