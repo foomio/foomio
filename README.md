@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Funmi.
-- 👀 I’m interested in cloud technology and game development.
+- 👀 I’m interested in cloud technology and fullstack/game development.
 - Current Projects I'm working on : "Neon Kawaii To-do List", "KATE3O", "Parkside Pioneers: '50s MMO" 
 - 📫 How to reach me: foomi.business@gmail.com ☀
 
