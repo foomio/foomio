@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Funmi.
 - 👀 I’m interested in cloud technology, web dev, & game development.
-- 🔆 Current Projects I'm working on : "KATE3O"
+- 🔆 Current Projects I'm working on : My portfolio website
 - 📫 How to reach me: foomi.business@gmail.com ☀
 
 
