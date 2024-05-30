@@ -1,6 +1,6 @@
 - 👋 Hi there!
 - 👀 I’m interested in cloud technology, web dev, & game development.
-- 🔆 Current Projects I'm working on : Simple K8s Tutorial
+- 🔆 Current Projects I'm working on : secure-docker-webapp-w-CICD
 - 📫 How to reach me: foomi.business@gmail.com ☀
 
 
