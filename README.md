@@ -1,6 +1,6 @@
 - 👋 Hi there!
 - 👀 I’m interested in cloud technology, web dev, & game development.
-- 🔆 Current Projects I'm working on : A web game that incorprates using AWS, K8s, TypeScript and Docker for development
+- 🔆 Current Projects I'm working on : Deploying a Minecraft Server on K8s
 - 📫 How to reach me: foomi.business@gmail.com ☀
 
 
